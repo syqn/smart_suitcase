@@ -12,17 +12,13 @@
 	- [Hardware Connection](#2.3)
 - [User Manual](#3)
 	- [Before Running This Application](#3.1)
-	- [Run This Application](#3.2)
-		- [Makefile](#3.2.1)
-		- [Main Entry](#3.2.2)
-		- [Driver](#3.2.3)
-		- [Function Module](#3.2.4)
+		
 
 
 ## <h2 id='1'> Introduction 
 
 
-**“”智能行李箱**
+**“箱随箱行”智能行李箱**
 
 本作品是一款可以自动跟随用户的智能行李箱。
 
