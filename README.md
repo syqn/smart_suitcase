@@ -14,7 +14,7 @@
 	- [Hardware Connection](#2.3)
 - [User Manual](#3)
 	- [Before Running This Application](#3.1)
-		
+- [Note](#4)		
 
 
 ## <h2 id='1'> Introduction 
@@ -78,13 +78,11 @@ EMSK开发板的PMOD接口数量非常多，如表1所示ARC与各模块的连�
 - Build project
 - Run this application
 
-## 注释
+## <h2 id='4'>注释
 
-ds_twr_init_test文件夹是行人身上标签的程序
-
-ds_twr_resp3_test是行李箱的程序
-
-作品视频展示（点击图片可观看视频）
+- ds_twr_init_test文件夹是行人身上标签的程序
+- ds_twr_resp3_test是行李箱的程序
+- 作品视频展示（点击图片可观看视频）
 
 
 [![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527589511310&di=61817d4640b546bc732cecc4526f327e&imgtype=0&src=http%3A%2F%2Fimg0.pconline.com.cn%2Fpconline%2F1609%2F13%2F8366507_1_thumb.png)](http://v.youku.com/v_show/id_XMzYzMzEyNzAwOA==.html?spm=a2h3j.8428770.3416059.1)
