@@ -78,7 +78,7 @@ EMSK开发板的PMOD接口数量非常多，如表1所示ARC与各模块的连�
 - Build project
 - Run this application
 
-## <h2 id='4'>注释
+## <h2 id='4'>Note
 
 - ds_twr_init_test文件夹是行人身上标签的程序
 - ds_twr_resp3_test是行李箱的程序
