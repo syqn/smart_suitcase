@@ -32,6 +32,8 @@
 - 移动电源功能：能够当做移动电源供手机、平板等移动设备充电。
 - 电量显示功能：能够显示电池电量以提示使用者及时充电。
 
+### <h3 id='1.2'>System Architecture
+
 ![这里写图片描述](https://img-blog.csdn.net/20180528222736927?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N5cW55dWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 <h2 id='2'> HW/SW Setup
